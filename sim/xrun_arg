@@ -1,0 +1,14 @@
+
+-access rwc
+-64
+-INCDIR .. \
+
+-sv
+
+-smartorder
+-licqueue
+
+-top rfm_tb
+
+
+-f filelist
